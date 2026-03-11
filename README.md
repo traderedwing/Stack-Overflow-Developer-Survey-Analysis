@@ -11,8 +11,8 @@ Interactive dashboard created using IBM Cognos Analytics.
 Dashboard link:
 https://eu2.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FDashboard%2Bview%2Bof%2BDashboard%2BStack%2BOverflow&action=view&mode=dashboard&nav_filter=true
 
-## Dashboard Screenshots
+## Dashboard PDF
 
-Tab 1 – Technology Overview  
-Tab 2 – Programming Languages and Databases  
-Tab 3 – Technology Preferences
+Download the PDF:
+
+[Stack Overflow Survey PDF](Dashboard Stack Overflow.pdf)
