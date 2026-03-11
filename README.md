@@ -15,4 +15,4 @@ https://eu2.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2
 
 Download the PDF:
 
-[Stack Overflow Survey PDF](Dashboard Stack Overflow.pdf)
+[Stack Overflow Survey PDF](Dashboard_Stack_Overflow.pdf)
